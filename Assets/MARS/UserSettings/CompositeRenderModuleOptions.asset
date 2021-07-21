@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6892b2e3e6da4824cbffbd9e48b9fe85, type: 3}
   m_Name: CompositeRenderModuleOptions
   m_EditorClassIdentifier: 
-  m_UseFallbackCompositeRendering: 0
+  m_UseFallbackCompositeRendering: 1
   m_UseCameraStackInFallback: 0
-  m_IncludeUniversalRenderPipeline: 0
+  m_IncludeUniversalRenderPipeline: 1
